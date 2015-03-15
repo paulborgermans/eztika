@@ -1,0 +1,5 @@
+The binaries of Tika are no longer included in the eztika extension
+
+Please download the binaries (server and/or app according to the mode you want to run tika) from
+http://tika.apache.org/download.html
+
