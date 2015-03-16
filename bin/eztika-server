@@ -2,5 +2,5 @@
 # set CURL to your curl executable
 CURL=/usr/bin/curl
 TIKA_SERVER=http://127.0.0.1:9998/tika
-$CURL -T $1 $TIKA_SERVER
+$CURL --silent -T $1 $TIKA_SERVER
 
